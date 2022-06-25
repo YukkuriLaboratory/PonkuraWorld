@@ -1,4 +1,4 @@
-# ぽんクラワールド-[ダウンロードはこちら](https://github.com/YukkuriLaboratory/BlockHideAndSeek/releases/latest)
+# ぽんクラワールド-[ダウンロードはこちら](https://github.com/YukkuriLaboratory/PonkuraWorld/releases/latest)
 
 「ランドマークで にっぽんクラフト」内で作成されたワールドです。
 
